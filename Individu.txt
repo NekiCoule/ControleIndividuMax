@@ -1,0 +1,3 @@
+WEBER Max -> Numero de securite sociale : 27049725404, Date de naissance : 27/4/1997, Profession : Dev
+GROUNDHOG Fafa -> Numero de securite sociale : 321100042, Date de naissance : 32/11/2000, Profession : Acteur
+KREYDER Armand -> Numero de securite sociale : 111170777, Date de naissance : 11/11/1970, Profession : Prof
